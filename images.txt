@@ -1,4 +1,4 @@
 alpine
 python:alpine3.19
 kasmweb/nginx:1.25.3
-
+alist:3.35.0
